@@ -53,7 +53,7 @@ $apps = [ordered]@{
 
 # --- Build the Window Form (Expanded for Side-by-Side layout) ---
 $form = New-Object System.Windows.Forms.Form
-$form.Text = "Software Manager & Global WinGet Search"
+$form.Text = "S Prabhanjan Kumar - Software Manager & Global WinGet Search"
 $form.Size = New-Object System.Drawing.Size(900, 560)
 $form.StartPosition = "CenterScreen"
 $form.FormBorderStyle = "FixedDialog"
