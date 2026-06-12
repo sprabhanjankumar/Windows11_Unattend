@@ -1,31 +1,27 @@
-================================================================================
 CUSTOM WINDOWS 10/11 UNATTENDED ISO CREATION GUIDE
-================================================================================
 
-[STEP 1: PREPARE ANYBURN]
+STEP 1: PREPARE ANYBURN
 * Extract your downloaded .zip file containing the tools.
 * Launch Anyburn by running "Anyburn.exe".
 
-[STEP 2: LOAD THE ISO]
+STEP 2: LOAD THE ISO
 * Select "Edit Image File" from the main menu options.
 * Browse and select your source Windows 10 or Windows 11 ISO file.
 * Click "Next" to open the ISO contents.
 
-[STEP 3: ADD EXTRAS & AUTOMATION FILES]
+STEP 3: ADD EXTRAS & AUTOMATION FILES
 * Click the "Add" button (or drag and drop files directly into AnyBurn).
 * Add your highly configured "Autounattend.xml" file to the root directory.
-* Add your "$OEM$" folder to the root directory.
+* Add your "OEM" folder to the root directory.
   (Note: The Autounattend.xml will automatically wipe/clean Disk 0 completely).
 * Click "Next" when all files are added.
 
-[STEP 4: SAVE THE NEW ISO]
+STEP 4: SAVE THE NEW ISO
 * Select the output destination folder and choose a new name for your ISO.
 * Click "Create Now" to build and compile your custom automated ISO.
 * Video Reference: https://youtube.com
 
-================================================================================
 CRITICAL WINDOWS INSTALLATION RULES (READ BEFORE BOOTING)
-================================================================================
 
 1. DISCONNECT INTERNET:
    * Keep your internet disconnected during the initial Windows Setup phase.
@@ -45,5 +41,4 @@ CRITICAL WINDOWS INSTALLATION RULES (READ BEFORE BOOTING)
    * If this happens, locate and run the "WinGET.cmd" file provided in your package 
      to complete the software installations manually.
 
-5. Click WinGet Repair First
-================================================================================
+5. CLICK Repair WinGET FIRST after You can Install Softwares
