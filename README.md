@@ -1,4 +1,4 @@
-CUSTOM WINDOWS 10/11 UNATTENDED ISO CREATION GUIDE
+CUSTOM WINDOWS 10/11 UNATTENDED ISO CREATION GUIDE [Read all Once]
 
 STEP 1: PREPARE ANYBURN
 * Extract your downloaded .zip file containing the tools.
@@ -41,4 +41,7 @@ CRITICAL WINDOWS INSTALLATION RULES (READ BEFORE BOOTING)
    * If this happens, locate and run the "WinGET.cmd" file provided in your package 
      to complete the software installations manually.
 
-5. CLICK Repair WinGET FIRST after You can Install Softwares
+5. CLICK REPAIR WINGET FIRST:
+   * Run the repair script before installing any software.
+   * If installing Windows 10 or 11 by wiping the entire Disk 0, a Command Prompt window will appear.
+   * Type "6" for the Pro edition or "1" for the Home edition when prompted.
