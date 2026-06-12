@@ -19,7 +19,7 @@ STEP 3: ADD EXTRAS & AUTOMATION FILES
 STEP 4: SAVE THE NEW ISO
 * Select the output destination folder and choose a new name for your ISO.
 * Click "Create Now" to build and compile your custom automated ISO.
-* Video Reference: https://youtube.com
+* Video Reference: https://www.youtube.com/watch?v=KO4Pp06ZHiE
 
 CRITICAL WINDOWS INSTALLATION RULES (READ BEFORE BOOTING)
 
