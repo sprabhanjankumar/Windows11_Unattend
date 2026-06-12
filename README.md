@@ -44,4 +44,6 @@ CRITICAL WINDOWS INSTALLATION RULES (READ BEFORE BOOTING)
    * Sometimes the direct software installer will fail on Windows 10.
    * If this happens, locate and run the "WinGET.cmd" file provided in your package 
      to complete the software installations manually.
+
+5. Click WinGet Repair First
 ================================================================================
