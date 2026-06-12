@@ -42,6 +42,6 @@ CRITICAL WINDOWS INSTALLATION RULES (READ BEFORE BOOTING)
      to complete the software installations manually.
 
 5. CLICK REPAIR WINGET FIRST:
-   * Run the repair script before installing any software.
+   * Run the repair WinGET button to install/update all libraries - script before installing any software.
    * If installing Windows 10 or 11 by wiping the entire Disk 0, a Command Prompt window will appear.
    * Type "6" for the Pro edition or "1" for the Home edition when prompted.
